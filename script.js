@@ -23,8 +23,8 @@ var leftPressed = false;
 var colorNum=3;
 var ballColor=["#ADFF2F","#FFD700","#87CEFA","#FFFFFF"];
 
-var brickOffsetTop = 60;
-var brickOffsetLeft = 60;
+var brickOffsetTop = 70;
+var brickOffsetLeft = 70;
 var brickPadding = 20;
 var brickRowCount = 3;
 var brickColumnCount = 5;
